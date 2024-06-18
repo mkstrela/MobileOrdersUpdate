@@ -1,4 +1,4 @@
 {
-"v":"1.0.25",
-"f":"mobile-orders-1.0.25-1-release.apk"
+"v":"1.0.26",
+"f":"mobile-orders-1.0.26-1-release.apk"
 }
